@@ -7,7 +7,7 @@
 
    <p align="center"> Renewable Energy needs the power of AI
 
-<p align="center"> Our World Needs _Uplight_ 
+<p align="center"> Our World Needs Uplight
    
    
 **Table of Contents**
