@@ -7,4 +7,4 @@
 
 _Renewable Energy needs the power of AI_
 
-###**Table of Contents**
+###Table of Contents
