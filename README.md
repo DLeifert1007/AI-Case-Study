@@ -21,15 +21,7 @@
 
  ### Intro Video
 
- [Uploading www.pex<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://www.pexels.com/video/wind-turbine-on-a-field-at-sunrise-857010/</string>
-</dict>
-</plist>
-els.com:.webloc…]()
+(https://www.pexels.com/video/wind-turbine-on-a-field-at-sunrise-857010/)
 
 
 
