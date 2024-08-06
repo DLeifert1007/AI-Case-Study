@@ -8,21 +8,12 @@
    <p align="center"> Renewable Energy needs the power of AI
 
 <p align="center"> Our World Needs Uplight
-   
-   
-**Table of Contents**
-* Overview and Origin
-* Business Activities
-* Landscape
-* Results
-* Recommendations
 
  (https://uplight.com) is a platform for renewable energy proiders. 
 
-! [video] (HTML:<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/TzfnlPxCZv0?si=aa_zgimwQi1ZtrzV" frameborder="0" allowfullscreen></iframe>)
+HTML:<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/TzfnlPxCZv0?si=aa_zgimwQi1ZtrzV" frameborder="0" allowfullscreen></iframe>
 
-
-**
+**Table of Contents**...
 
 _Overview and Origin_ 
 Uplight was incorporated in 
