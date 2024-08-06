@@ -17,4 +17,4 @@
 * Results
 * Recommendations
 
-[Uplight] (https://uplight.com/) is a platform for renewable energy proivers
+ [uplight.com] (https://uplight.com) is a platform for renewable energy proivers
