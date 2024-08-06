@@ -21,7 +21,7 @@
 
  ### Intro Video
 
-(https://www.pexels.com/video/wind-turbine-on-a-field-at-sunrise-857010/)
+Video by invisiblepower from Pexels: https://www.pexels.com/video/wind-turbine-on-a-field-at-sunrise-857010/
 
 
 
