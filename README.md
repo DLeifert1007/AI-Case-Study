@@ -21,8 +21,6 @@
 
  ### Intro Video
 
- (![istockphoto-590147650-612x612](https://github.com/user-attachments/assets/36986ebf-fcc1-42e3-8d6d-c362f43775e9)
-
  [Uploading www.pex<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
