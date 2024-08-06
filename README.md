@@ -1,2 +1,2 @@
 # AI-Case-Study
-green: ## Artificial Intelligence In Sustainability
+<span style = "color: green"> ## Artificial Intelligence In Sustainability </span>
