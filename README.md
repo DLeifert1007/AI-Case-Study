@@ -1,2 +1,2 @@
 # AI-Case-Study
-green ## Artificial Intelligence In Sustainability
+green: ## Artificial Intelligence In Sustainability
