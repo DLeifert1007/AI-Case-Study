@@ -1,5 +1,5 @@
 # AI-Case-Study
-## Artificial Intelligence In Sustainability
+## Artificial Intelligence In Environmental Sustainability
 
 <p align="center">
    
