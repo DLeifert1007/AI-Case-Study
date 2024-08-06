@@ -7,9 +7,9 @@
 
 _Renewable Energy needs the power of AI_
 
-<p align="center"> Uplight 
+<p align="center"> **Uplight** 
    
-### A list bullet points
+### 
 * Overview and Origin
 * Business Activities
 * Landscape
