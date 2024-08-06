@@ -16,3 +16,5 @@
 * Landscape
 * Results
 * Recommendations
+
+[Uplight] (https://uplight.com/) is a platform for renewable energy proivers
