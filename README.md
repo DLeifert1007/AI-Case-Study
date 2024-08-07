@@ -88,7 +88,7 @@ _Recommendations_
 >capture renewable resources as well as store the energy and distribute it effectively. Geothermal, wind, solar,
 >bioenergy, and hydropower are the natural resources that will rid of us our dependency on fossil fuels.[^7] 
 
-####### **Recommendations**
+###### **Recommendations** 
 
 >A personal recommmendation directed to Google Deepmind, in the field of renewable energy, is to expand their approach.
 >Transformers and the use of natural language would open AI to the energy consumer directly. Tips on how to get the most
