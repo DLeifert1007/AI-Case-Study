@@ -60,7 +60,12 @@ _Recommendations_
 >the uncertainty thereby making renewables less unreliable. The problem of energy storage is another conflict in this
 >transition. By improving the grid resilience, energy shortages may become a thing of the past. AI can predict consumption
 >patterns to more efficiently allocate resources. Lastly, AI is useful in predicting equiptment failures or when
->maitenance is needed which in turn will reduce repair costs and make the grid more reliable. [^4] 
+>maitenance is needed which in turn will reduce repair costs and make the grid more reliable. [^4]
+
+
+<p align="center"> 
+   
+   ![depositphotos_29966311-stock-photo-renewable-energy](https://github.com/user-attachments/assets/73ed152a-c774-4c45-b320-85643f3f6099)
 
 
 
