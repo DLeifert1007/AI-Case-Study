@@ -43,9 +43,8 @@ _Recommendations_
 
 *************************
 
-<p align="center">
 
-![images](https://github.com/user-attachments/assets/05314145-48c4-4321-a641-da83de5525fe)
+<p align="center"> ![images](https://github.com/user-attachments/assets/05314145-48c4-4321-a641-da83de5525fe)
 
 
 ### **Overview and Origin**
