@@ -22,10 +22,9 @@
 | Reduce Energy consumption            | Energy efficient construction and usage   | Duke Energy USA
 | Renewable Energy Transition          | Instalation and grid control              | Google Deep Mind UK
 
-
-
-<p align="center"> 
-   ![images-1](https://github.com/user-attachments/assets/dc239140-aa4d-4d06-899b-533f7965ddea)
+ 
+   
+         ![images-1](https://github.com/user-attachments/assets/dc239140-aa4d-4d06-899b-533f7965ddea)
 
 
 
