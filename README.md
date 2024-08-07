@@ -78,7 +78,7 @@ _Recommendations_
 >installations, energy storage, weather predictions in wind and solar, but the technology to succesfully implement
 >these changes. Deepmind has the drive to achieve this challenge.  
 
-##### **Results**
+###### **Results**
 
 >Google Deepmind is a leading competetor in the world of AI as well as in the transition to renewable energy. In
 >a competition for computer programing, Deepmind ranked in the top 54%.[^6] Core metrics, or key performance
@@ -87,7 +87,6 @@ _Recommendations_
 >implementation of AI in renewable energy.[^7] The transition involves both the utilization of AI technology to better
 >capture renewable resources as well as store the energy and distribute it effectively. Geothermal, wind, solar,
 >bioenergy, and hydropower are the natural resources that will rid of us our dependency on fossil fuels.[^7] 
-
 
 ####### **Recommendations**
 
