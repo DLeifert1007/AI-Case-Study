@@ -5,20 +5,20 @@
    
    ![blue-globe-banner](https://github.com/user-attachments/assets/f1887d8c-e69f-4cf6-b431-be71803e623b)
 
-   <p align="center"> Renewable Energy needs the power of AI
+   <p align="center"> Environmental Sustainability needs the power of AI
 
-<p align="center"> Our World Needs Uplight
+<p align="center"> Uplight is bringing AI the Renewable Energy Sector
 
  (https://uplight.com) is a platform for renewable energy proiders. 
 
-HTML:<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/TzfnlPxCZv0?si=aa_zgimwQi1ZtrzV" frameborder="0" allowfullscreen></iframe>
+-----------------------------------
 
-| Renewable Energy sources    | AI in the Energy Sector  | Benefits        |
-|-----------------------------|:------------------------:|----------------:|
-|   Sunlight                  | 
-
-
-
+| Sustainability Problem               | Abilities of AI in the Field              | Companies on the Task       |
+|--------------------------------------|:-----------------------------------------:|----------------------------:|
+| Recyliing waste of all kinds         | Efficiently identify and sort             | Smarter Sorting USA         |
+| Sustainable Agriculture              | Land management & weather monitoring      | Harvest CROO Robotics USA   |
+| Preparedness for natural disasters   | Flood warning, forest fires detection     | Everbridge Europe           |
+| Biodiversity monitoring              | Habitat analysis & climate change's impact| Data for Good               |
 
 
 
