@@ -9,18 +9,18 @@
 
 <p align="center"> Google Deep Mind is bringing AI to the Renewable Energy Sector
 
-<p align="center"> (https://deepmind.google/discover/blog/using-ai-to-fight-climate-change/) is a full sclae operation for renewable energy implementation. 
+<p align="center"> (https://deepmind.google/discover/blog/using-ai-to-fight-climate-change/) is a full scale operation for renewable energy implementation. 
 
 -----------------------------------------
 
 | Sustainability Issue                 | Abilities of AI in the Field              | Companies on the Task            |
 |--------------------------------------|:-----------------------------------------:|---------------------------------:|
-| Recyliing waste of all kinds         | Efficiently identify and sort             | Smarter Sorting USA              |
+| Recycliing waste of all kinds        | Efficiently identify and sort             | Smarter Sorting USA              |
 | Sustainable Agriculture              | Land management & weather monitoring      | Harvest CROO Robotics USA        |
 | Preparedness for natural disasters   | Flood warning, forest fires detection     | Everbridge Europe                |
-| Biodiversity monitoring              | Habitat analysis & climate change's impact| Data for Good                    |
+| Biodiversity monitoring              | Habitat analysis & climate change impact  | Data for Good                    |
 | Reduce Energy consumption            | Energy efficient construction and usage   | Duke Energy USA
-| Renewable Energy Transition          | Instalation and grid control              | Google Deep Mind UK [^3] 
+| Renewable Energy Transition          | Weather monitoring and grid control       | Google Deep Mind UK [^3] 
 
  
    
@@ -53,7 +53,7 @@ _Recommendations_
 
 > Google Deepmind was originally founded in 2010 in the UK by Demis Hassabis, Shane Legg, and Mustafa Suleyman. 
 > Through many integrading parts, this concept eventually merged with Google AI's Google Brain becoming
-> Deepmind in April of 2023. The two prime investors are Founders Fund and Horizons Ventures.[^1] As a leader in the
+> Deepmind in April of 2023.[^1] The two prime investors are Founders Fund and Horizons Ventures.[^1] As a leader in the
 > world of technology it was inevitable that Google would grow to be a leader in the technology of Artificial Intelligence.
 
 #### **Business Activities**
@@ -61,7 +61,7 @@ _Recommendations_
 >The concept of utilizing the science of AI to fight climate change was not met without conflict. Large amounts of energy
 >are needed in order to run an evergrowing amount of data centers.[^2] Human ingenuity is responsible for bringing AI to
 >the forefront of fighting climate change. Utilizing our technology to protect our environment is what will allow AI to
->grow and evolve. A specific problem that Deepmind is trying to solve the energy sector is the transition to renewable
+>grow and evolve. A specific problem that Deepmind is trying to solve is the energy sector in the transition to renewable
 >energy. The unpredictability of renewable energy sources has posed a challenge from the begining. AI will be able to limit
 >the uncertainty thereby making renewables less unreliable. The problem of energy storage is another conflict in this
 >transition. By improving the grid resilience, energy shortages may become a thing of the past. AI can predict consumption
