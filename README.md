@@ -24,15 +24,21 @@
 
 
 <p align="center">
+   
 ![images-1](https://github.com/user-attachments/assets/dc239140-aa4d-4d06-899b-533f7965ddea)
 
 
 **Table of Contents**
 
+
 _Overview and Origin_ 
+
 _Business Activities_
+
 _Landscape_ 
+
 _Results_ 
+
 _Recommendations_  
 
 
