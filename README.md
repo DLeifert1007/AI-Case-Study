@@ -116,13 +116,7 @@ ______________________________________________________
 5. https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wene.460  Luka Strezoski 8/23/2022
 6. https://www.bbc.com/news/technology-60231058 Jane Wakefield 2/2/2022
 7. Ukoba, K., Olatunji, K. O., Adeoye, E., Jen, T.-C., & Madyira, D. M. (2024). Optimizing renewable energy systems >through artificial intelligence: Review and future prospects. Energy & Environment, 0(0). >https://doi.org/10.1177/0958305X241256293
-8.   ![blue-globe-banner](https://github.com/user-attachments/assets/f1887d8c-e69f-4cf6-b431-be71803e623b)
-9.    ![images-1](https://github.com/user-attachments/assets/dc239140-aa4d-4d06-899b-533f7965ddea)
-10.  ![images](https://github.com/user-attachments/assets/05314145-48c4-4321-a641-da83de5525fe)
-11.  ![depositphotos_29966311-stock-photo-renewable-energy](https://github.com/user-attachments/assets/73ed152a-c774-4c45->b320-85643f3f6099)
-12.  ![istockphoto-590147650-612x612](https://github.com/user-attachments/assets/5d95c7f9-049d-4c8b-9595-7815ed0f2c42)
-
-
+  
 
 ![istockphoto-590147650-612x612](https://github.com/user-attachments/assets/5d95c7f9-049d-4c8b-9595-7815ed0f2c42)
 
