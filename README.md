@@ -43,6 +43,11 @@ _Recommendations_
 
 *************************
 
+<p align="center">
+
+![images](https://github.com/user-attachments/assets/05314145-48c4-4321-a641-da83de5525fe)
+
+
 ### **Overview and Origin**
 
 > Google Deepmind was originally founded in 2010 in the UK by Demis Hassabis, Shane Legg, and Mustafa Suleyman. 
@@ -68,6 +73,13 @@ _Recommendations_
 
 ##### **Landscape**
 
+>Deepmind is in the field of Artifical Intelligence with a specific direction of building a more sustainable world with
+>technology. The renewable energy transition requires not just social acceptance, updating the electrical grid, home
+>installations, energy storage, weather predictions in wind and solar, but the technology to succesfully implement
+>these changes. Deepmind has the drive to achieve this challenge.  
+
+##### **Results**
+
 >Google Deepmind is a leading competetor in the world of AI as well as in the transition to renewable energy. In
 >a competition for computer programing, Deepmind ranked in the top 54%.[^6] Core metrics, or key performance
 >metrics (KPM), are a method in which companies can measure their success. Accuracy, performance, and efficiency are
@@ -76,7 +88,8 @@ _Recommendations_
 >capture renewable resources as well as store the energy and distribute it effectively. Geothermal, wind, solar,
 >bioenergy, and hydropower are the natural resources that will rid of us our dependency on fossil fuels.[^7] 
 
-###### **Recommendations**
+
+####### **Recommendations**
 
 >A personal recommmendation directed to Google Deepmind, in the field of renewable energy, is to expand their approach.
 >Transformers and the use of natural language would open AI to the energy consumer directly. Tips on how to get the most
@@ -84,19 +97,6 @@ _Recommendations_
 >thermostat interaction that regulates temperatures more efficiently or lights that work with motion detection. Deepmind
 >is appropriate for the future of clean energy and environmental sustainability as it will bridge the gap between the idea
 >renewable rescources and the actual full transition to utilize them. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="center"> 
